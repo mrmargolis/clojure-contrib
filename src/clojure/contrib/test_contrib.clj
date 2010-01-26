@@ -18,7 +18,7 @@
 
 (def test-names
      [:complex-numbers :fnmap :macro-utils :monads :pprint.pretty
-      :pprint.cl-format :str-utils :shell-out :test-graph
+      :pprint.cl-format :set :str-utils :shell-out :test-graph
       :test-dataflow :test-java-utils :test-lazy-seqs
       :test-trace :test-jmx :java-utils :mock-test :mock-test.test-adapter-test
       :seq-utils-test :with-ns-test])
